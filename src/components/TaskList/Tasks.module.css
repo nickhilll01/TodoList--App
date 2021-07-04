@@ -1,0 +1,52 @@
+.users {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.users ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.users li {
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  background-color: whitesmoke;
+  color: rgb(126, 2, 2);
+  border-radius: 5px;
+  height: 2.2rem;
+}
+
+.button {
+  background-color: rgb(126, 2, 2);
+  border-radius: 5px;
+  padding: 0.5rem;
+  color: white;
+  font-size: medium;
+  display: inline-block;
+  float: right;
+  margin-left: 2px;
+}
+
+.taskTitle {
+  font-weight: bolder;
+  align-items: center;
+  float: left;
+  display: inline-table;
+}
+
+.noTasks {
+  text-align: center;
+  color: rgb(126, 2, 2);
+}
+
+.updatedTitle {
+  height: 1.5rem;
+  width: 20rem;
+  border-color: rgb(126, 2, 2);
+  border-radius: 5px;
+  color: rgb(126, 2, 2);
+  font-weight: bold;
+}

@@ -1,0 +1,10 @@
+.button {
+  background-color: rgb(126, 2, 2);
+  border-radius: 5px;
+  padding: 0.5rem;
+  color: white;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 17rem;
+  font-size: medium;
+}
